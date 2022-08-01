@@ -1,10 +1,11 @@
 ## Introduction
 
+
 **Feng** is a game based on logisim and it got a full score in The Digital Logic Lab (USTC) course.
 
 Since this idea was inspired by my friend Chen Feng, it was named Feng. Glad to have a friend like him. The process of creating it brought me back to the joy of building blocks as a child. This warehouse was built **in honor of friendship**.
 
-![image-20210101164714379](D:\纸七\0.计算机\Github-Repositories\Feng\image-20210101164714379.png)
+![image-20210101164714379](https://github.com/Ah-miu/Feng/blob/main/image-20210101164714379.png)
 
 ## How to play
 
@@ -19,8 +20,18 @@ Since this idea was inspired by my friend Chen Feng, it was named Feng. Glad to 
   1. Block shattering effects, including random number shattering effects and custom particle shattering effects.
   2. A firework effect that automatically plays when you successfully complete the game.
 
-------
+```
+              ▀████▀▄▄              ▄█                       █████ ███████ ███▄    █   ▄████ 
+                █▀    ▀▀▄▄▄▄▄    ▄▄▀▀█                     ▓██   ▒ ▓█      ██ ▀█   █  ██▒ ▀█▒
+        ▄        █          ▀▀▀▀▄  ▄▀                      ▒████ ░ ▒███▀  ▓██  ▀█ ██▒▒██░▄▄▄░
+       ▄▀ ▀▄      ▀▄              ▀▄▀                      ░▓█▒  ░ ▒▓█ ░  ▓██▒  ▐▌██▒░▓█  ██▓
+      ▄▀    █     █▀   ▄█▀▄      ▄█                        ░▒█░    ░▒████▒▒██░   ▓██░░▒▓███▀▒
+      ▀▄     ▀▄  █     ▀██▀     ██▄█                        ▒ ░    ░░ ▒░ ░░ ▒░   ▒ ▒  ░▒   ▒ 
+       ▀▄    ▄▀ █   ▄██▄   ▄  ▄  ▀▀ █                       ░       ░ ░  ░░ ░░   ░ ▒░  ░   ░  
+        █  ▄▀  █    ▀██▀    ▀▀ ▀▀  ▄▀                       ░ ░       ░      ░   ░ ░ ░ ░   ░
+       █   █  █      ▄▄           ▄▀                          ░  ░         ░       ░
 
+```
 ## 介绍：
 
 Feng，一个logisim游戏，20年秋中科大模电实验课满绩作品。
