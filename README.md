@@ -15,7 +15,7 @@ Since this idea was inspired by my friend Chen Feng, it was named Feng. Glad to 
 
 ## Features
 
-- Very expandable. If you understand my design, you can reproduce many block games based on existing templates. Of course, this requires certain calculations.
+- Very expandable. If you understand my design, you can quickly reproduce many block games based on existing templates. Of course, this requires certain calculations.
 - I made two types of special effects in it.
   1. Block shattering effects, including random number shattering effects and custom particle shattering effects.
   2. A firework effect that automatically plays when you successfully complete the game.
@@ -46,7 +46,7 @@ Feng，一个logisim游戏，20年秋中科大模电实验课满绩作品。
 
 ## 特点：
 
-- 可拓展性很强。如果搞懂了我的设计，可以基于已有的模板复现许多方块类的游戏，当然，这需要一定的计算。
+- 可拓展性很强。如果搞懂了我的设计，可以基于已有的模板快速复现许多方块类的游戏。当然，这需要一定的计算。
 - 我在里面制作了两类特效：
   1. 方块破碎特效，包括随机数破碎效果和自定义粒子破碎效果。
   2. 一个烟花特效，当你成功完成游戏时，它会自动播放。
